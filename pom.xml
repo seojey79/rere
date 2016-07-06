@@ -4,7 +4,7 @@
     <groupId>com.memebox</groupId>
     <artifactId>recommendation</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>Recommendation API Server </name>
     <url>http://maven.apache.org</url>
 
